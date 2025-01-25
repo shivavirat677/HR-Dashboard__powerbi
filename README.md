@@ -1,7 +1,7 @@
 # Hr-Dashboard
 Based on the HR dashboard image you shared and your description, it seems like you created an extensive Power BI project focusing on HR metrics. Here’s an overview that could sum up the purpose and main features of your project:
 
-
+![dashboard](https://github.com/shivavirat677/HR-Dashboard__powerbi/blob/main/Screenshot%202025-01-25%20152302.png)
 ---
 
 # Project Overview:
